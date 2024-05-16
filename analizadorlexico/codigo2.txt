@@ -1,0 +1,12 @@
+program ejemplo;
+var
+	a, b, c, d: integer;
+        z: String;
+begin
+       d := 0;
+       while d < 7 do
+       begin
+       write (d);
+       d := d+1
+       end
+end.
